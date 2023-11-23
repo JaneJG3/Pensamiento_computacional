@@ -1,0 +1,20 @@
+calcula la edad de una persona con su fecha de nacimiento.
+
+1.inicio
+2.definir:  
+        año_nac(int)
+        año_act(int)
+        edad(int)
+        nombre(str)
+
+3. asignar año_act=2023
+4. Escribir "Ingresa tu nombre"
+5. asignar nombre
+6. Escribir "Ingresa tu año de nacimiento",nombre
+7. asigno año_nac
+
+8. edad=año_act-año_nac
+
+9. Escribir nombre,"tu edad es de",edad,"años"
+10.fin
+
