@@ -1,4 +1,4 @@
-#Version 1
+Version 1
 ## Algoritmo
   1 Inicio 
   2 definir nombre_alum (str)
