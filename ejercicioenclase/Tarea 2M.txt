@@ -1,0 +1,26 @@
+1 la multiplicacion de los siguientes numeros y entender si es es verdadero o falso el resultado.
+Inicio
+Algoritmo Multiplicacion
+
+	//datos
+	Definir num1,num2 (int)
+	Escribir num1, escribir num2 (int)
+        multiplica A*B= C
+        Definir C
+        Definir Verdadero/ Falso  caracter 
+	
+    // proceso
+
+    Escribir "Ingresa num1", "Ingresa num2"
+        Multi (6*6)
+   // saldida de datos
+
+    Escribir "El resultado de la multiplicacion es ", Multi, " verdadero si es= (Multi)falso si es <>ó¡= (Multi)
+
+Fin del algoritmo
+        
+        
+	
+	
+	
+    
